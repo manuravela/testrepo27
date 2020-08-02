@@ -47,8 +47,8 @@ def name():
     print("New Coursename: "+ courseName)
 
     session = boto3.Session(
-        aws_access_key_id= "AKIAJHFDXFIFB43YWRHA",
-        aws_secret_access_key= "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",
+        aws_access_key_id= "Access Key ID",
+        aws_secret_access_key= "Secret access key",
     )
 
 
